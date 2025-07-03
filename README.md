@@ -1,1 +1,1 @@
-This is the starting point for Lab 1: The Simple Bot in the Select Topics, NLP course.
+A simple chatbot which will respond to the user's prompt by searching through top few google sites and respond accordingly by analysing the prompt using ntlk in the background to understand the essence from user's input.
